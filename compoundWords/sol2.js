@@ -4,8 +4,6 @@
 //Outputs: [alien, newborn]
 // Output should be in alphabetical order.
 
-//inputs = wordBank
-//target = every word in the WordBank
 const words = [
   "a",
   "alien",
